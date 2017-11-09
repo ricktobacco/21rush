@@ -1,8 +1,8 @@
 # 21rush
 
-*Compile java files
+## Compile java files
 javac $(find ./* | grep .java)
 
-*Run mains
+## Run mains
 java GameRoom
 java GameClient
