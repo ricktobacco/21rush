@@ -54,7 +54,7 @@ public class GameRoom {
 			}
 		}
 	}
-	/*void addTable(String name, int numPlayers) {
+	void addTable(String name, int numPlayers) {
 		tables.add(new Table(name, numPlayers));
 	}
 	Table getTable(String name) {
@@ -97,4 +97,3 @@ public class GameRoom {
 		return null;
 	}
 }
-*/
